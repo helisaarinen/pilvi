@@ -2,7 +2,7 @@
   "name": "vite-sovellus",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://helisaarinen.github.io/pilvi/",
+  "homepage": "https://github.com/helisaarinen/pilvi",
 
   "type": "module",
   "scripts": {
