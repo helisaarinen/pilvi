@@ -3,10 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/reactapp/',
+  base: '/pilvi/',
   plugins: [react()],
-  test:{
-    globals: true,
-    environment: 'jsdom'
-  }
+
 })
