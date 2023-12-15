@@ -3,15 +3,6 @@ import './App.css';
 
 function App() {
   return (
-
-    <div>
-      <header className="App-header">
-        <p>tesktisä</p>
-
-
-      </header>
-    </div>
-    /*
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
@@ -27,7 +18,7 @@ function App() {
           Learn React sdf
         </a>
       </header>
-    </div>*/
+    </div>
   );
 }
 
